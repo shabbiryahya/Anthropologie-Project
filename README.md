@@ -1,9 +1,9 @@
 # Anthropologie_Project
-The Project is a clone of [Anthropologie.com](https://www.anthropologie.com) with all design and functionality copied using HTML, CSS and Javascript.
+The Project is a clone of [Anthropologie.com](https://www.anthropologie.com) with all design and functionality built using HTML, CSS and Javascript.
 below are the features of the application:
 - [Home Page](https://anthropologie-clonee.netlify.app/index.html)
 
-![Home Page](./docs/home_page.png)
+![Home Page](https://i.ibb.co/6R9LGWv/home-page.png)
 
 - [User Registration](https://anthropologie-clonee.netlify.app/filenewfinal/signup/signup)
 
