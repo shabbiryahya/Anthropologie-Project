@@ -23,7 +23,7 @@ below are the features of the application:
 
 - [Add to Cart](https://anthropologie-clonee.netlify.app/checkout&cartpage/cartpage) `login required*`
 
-![Add to Cart](https://i.ibb.co/p244c29/3.png)
+![Add to Cart](https://i.ibb.co/bP5r3Ld/4.png)
 
 - [Checkout](https://anthropologie-clonee.netlify.app/checkout&cartpage/checkoutpage) `login required*`
 
