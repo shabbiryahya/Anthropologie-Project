@@ -7,31 +7,31 @@ below are the features of the application:
 
 - [User Registration](https://anthropologie-clonee.netlify.app/filenewfinal/signup/signup)
 
-![User Registration](./docs/signup.png)
+![User Registration](https://ibb.co/x2t5LXV)
 
 - [User Login](https://anthropologie-clonee.netlify.app/filenewfinal/singup_signin/singup_signin)
 
-![User Login](./docs/sigin.png)
+![User Login](https://ibb.co/x2t5LXV)
 
 - [Product Lists](https://anthropologie-clonee.netlify.app/productspage/dress/dresswholepages)
 
-![Product Lists](./docs/2.png)
+![Product Lists](https://i.ibb.co/zNr3p5z/2.png)
 
 - [Product Details Page](https://anthropologie-clonee.netlify.app/productsreviewpage/productreviewpage)
 
-![Product Details Page](./docs/3.png)
+![Product Details Page](https://i.ibb.co/zNr3p5z/2.png)
 
 - [Add to Cart](https://anthropologie-clonee.netlify.app/checkout&cartpage/cartpage) `login required*`
 
-![Add to Cart](./docs/4.png)
+![Add to Cart](https://i.ibb.co/Qfv6cnm/4.png)
 
 - [Checkout](https://anthropologie-clonee.netlify.app/checkout&cartpage/checkoutpage) `login required*`
 
-![Checkout](./docs/5.png)
+![Checkout](https://i.ibb.co/Qfv6cnm/4.png)
 
 - [Payment](https://anthropologie-clonee.netlify.app/1%20payment%20gateway/payment) `login required*`
 
-![Payment](./docs/6.png)
+![Payment](https://i.ibb.co/Qfv6cnm/4.png)
 
 ## Setup
 - Clone this project on local
