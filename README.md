@@ -1,4 +1,5 @@
 # Anthropologie_Project
+<h3><b>Tech Stack:</i></b>HTML,CSS, JavaScript,React,Redux,Chakra UI,Material UI-<a href="https://github.com/shabbiryahya/Flipkart" target="_blank" style="text-decoration:none;">Github</a > | <a href="https://flipkart-clone-masai.netlify.app" target="_blank" style="text-decoration:none;" >Deployed</a></h3>
 The Project is a clone of [Anthropologie.com](https://www.anthropologie.com) with all design and functionality built using HTML, CSS and Javascript.
 below are the features of the application:
 - [Home Page](https://anthropologie-clonee.netlify.app/index.html)
