@@ -15,23 +15,23 @@ below are the features of the application:
 
 - [Product Lists](https://anthropologie-clonee.netlify.app/productspage/dress/dresswholepages)
 
-![Product Lists](https://i.ibb.co/zNr3p5z/2.png)
+![Product Lists](https://i.ibb.co/x3DnWsN/2.png)
 
 - [Product Details Page](https://anthropologie-clonee.netlify.app/productsreviewpage/productreviewpage)
 
-![Product Details Page](https://i.ibb.co/zNr3p5z/2.png)
+![Product Details Page](https://i.ibb.co/p244c29/3.png)
 
 - [Add to Cart](https://anthropologie-clonee.netlify.app/checkout&cartpage/cartpage) `login required*`
 
-![Add to Cart](https://i.ibb.co/Qfv6cnm/4.png)
+![Add to Cart](https://i.ibb.co/p244c29/3.png)
 
 - [Checkout](https://anthropologie-clonee.netlify.app/checkout&cartpage/checkoutpage) `login required*`
 
-![Checkout](https://i.ibb.co/Qfv6cnm/4.png)
+![Checkout](https://i.ibb.co/Ypkx4zk/5.png)
 
 - [Payment](https://anthropologie-clonee.netlify.app/1%20payment%20gateway/payment) `login required*`
 
-![Payment](https://i.ibb.co/Qfv6cnm/4.png)
+![Payment](https://i.ibb.co/vsJ7Yf6/6.png)
 
 ## Setup
 - Clone this project on local
