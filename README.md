@@ -3,7 +3,7 @@ The Project is a clone of [Anthropologie.com](https://www.anthropologie.com) wit
 below are the features of the application:
 - [Home Page](https://anthropologie-clonee.netlify.app/index.html)
 
-![Home Page](./docs/home_page.jpg)
+![Home Page](https://i.ibb.co/6R9LGWv/home-page.png)
 
 - [User Registration](https://anthropologie-clonee.netlify.app/filenewfinal/signup/signup)
 
