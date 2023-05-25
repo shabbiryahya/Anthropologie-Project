@@ -7,11 +7,11 @@ below are the features of the application:
 
 - [User Registration](https://anthropologie-clonee.netlify.app/filenewfinal/signup/signup)
 
-![User Registration](https://ibb.co/x2t5LXV)
+![User Registration](https://i.ibb.co/3T9hd4t/signup.png)
 
 - [User Login](https://anthropologie-clonee.netlify.app/filenewfinal/singup_signin/singup_signin)
 
-![User Login](https://ibb.co/x2t5LXV)
+![User Login](https://i.ibb.co/mHZGw6f/sigin.png)
 
 - [Product Lists](https://anthropologie-clonee.netlify.app/productspage/dress/dresswholepages)
 
